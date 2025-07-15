@@ -151,7 +151,7 @@ d_max ≤ d_allowable
 '<b>Practical Sizes:</b> Use standard UC sections for ease of construction.<br>'
 
 '<h2>Conclusion</h2>'
-'The beam meets the structural and serviceability requirements per Eurocode 3 for the given loading and conditions.'
+'The beam member meets the structural and serviceability requirements per Eurocode 3 for the given loading and conditions.'
 example end
 
 

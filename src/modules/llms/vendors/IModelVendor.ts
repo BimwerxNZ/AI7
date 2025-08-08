@@ -31,4 +31,6 @@ export interface IModelVendor<TServiceSettings extends Record<string, any> = {},
     access: TAccess,
   ): Promise<{ models: ModelDescriptionSchema[] }>;
 
+  ServiceSetupComponent?: React.ComponentType<{ serviceId: string }>;
+
 }

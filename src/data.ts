@@ -151,7 +151,7 @@ d_max ≤ d_allowable
 '<b>Practical Sizes:</b> Use standard UC sections for ease of construction.<br>'
 
 '<h2>Conclusion</h2>'
-'The beam member meets the structural and serviceability requirements per Eurocode 3 for the given loading and conditions.'
+'The beam meets the structural and serviceability requirements per Eurocode 3 for the given loading and conditions.'
 example end
 
 
@@ -185,5 +185,5 @@ Also, place output in code blocks using triple backticks.
     call: { starters: ['What\'s the task?', 'What can I do?', 'Ready for your task.', 'Yes?'] },
     voices: { elevenLabs: { voiceId: 'flq6f7yk4E4fJM5XTYuZ' } },
   },
-
+  
 };
